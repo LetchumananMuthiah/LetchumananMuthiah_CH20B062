@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LetchumananMuthiah_CH20B062/static/css/main.a617e044.chunk.css",
+    "main.js": "/LetchumananMuthiah_CH20B062/static/js/main.4f868f2b.chunk.js",
+    "main.js.map": "/LetchumananMuthiah_CH20B062/static/js/main.4f868f2b.chunk.js.map",
+    "runtime-main.js": "/LetchumananMuthiah_CH20B062/static/js/runtime-main.ad9578a8.js",
+    "runtime-main.js.map": "/LetchumananMuthiah_CH20B062/static/js/runtime-main.ad9578a8.js.map",
+    "static/js/2.16c1250f.chunk.js": "/LetchumananMuthiah_CH20B062/static/js/2.16c1250f.chunk.js",
+    "static/js/2.16c1250f.chunk.js.map": "/LetchumananMuthiah_CH20B062/static/js/2.16c1250f.chunk.js.map",
+    "static/js/3.7fdc69c2.chunk.js": "/LetchumananMuthiah_CH20B062/static/js/3.7fdc69c2.chunk.js",
+    "static/js/3.7fdc69c2.chunk.js.map": "/LetchumananMuthiah_CH20B062/static/js/3.7fdc69c2.chunk.js.map",
+    "index.html": "/LetchumananMuthiah_CH20B062/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/LetchumananMuthiah_CH20B062/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.16c1250f.chunk.js.LICENSE.txt": "/LetchumananMuthiah_CH20B062/static/js/2.16c1250f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad9578a8.js",
+    "static/js/2.16c1250f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4f868f2b.chunk.js"
+  ]
+}
